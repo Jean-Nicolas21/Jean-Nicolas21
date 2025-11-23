@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jean-Nicolas and I'm a student in first year of FullStack Developper Bachelor from France</p>
+<p align="left">My name is Jean-Nicolas and I'm a student in first year of FullStack Developper Bachelor (Coda School Dijon) from France</p>
 
 ###
 

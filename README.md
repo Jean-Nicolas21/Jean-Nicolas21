@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Studying since september 2025<br>📚 I'm currently learning C<br>🎯 Goals: build a website from front to back all by myself<br>🎲 Fun fact: I like to workout at the gym 🏋️and listenning all kind of musics 🎵</p>
+<p align="left">💻 Studying since september 2025<br>📚 I'm currently learning PHP<br>🎯 Goals: build a website from front to back all by myself<br>🎲 Fun fact: I like to workout at the gym 🏋️and listenning all kind of musics 🎵</p>
 
 ###
 

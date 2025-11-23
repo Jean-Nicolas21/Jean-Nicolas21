@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Studying since september 2025<br>📚 I'm currently learning PHP<br>🎯 Goals: build a website from front to back all by myself<br>🎲 Fun fact: I like to workout at the gym 🏋️and listenning all kind of musics 🎵</p>
+<p align="left">💻 Studying since september 2025<br>📚 I'm currently learning PHP<br>🎯 Goals: build a website from front to back all by myself/create my portfolio<br>🎲 Fun fact: I like to workout at the gym 🏋️and listenning all kind of musics 🎵</p>
 
 ###
 
@@ -28,6 +28,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
 </div>
 
 ###
